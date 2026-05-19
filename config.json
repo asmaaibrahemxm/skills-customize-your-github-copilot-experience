@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Testing Python Programs with Pytest",
+      "description": "Write automated tests for task manager functions using pytest and edge-case assertions.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-05-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Scaffold",
+          "file": "test_starter.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
